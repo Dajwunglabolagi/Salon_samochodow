@@ -7,7 +7,7 @@
 <link href="../../../Content/lightbox.min.css" rel="stylesheet" />
 <script src="../../../Scripts/lightbox-plus-jquery.min.js"></script>
     <div id="conteiner">
-        <div id="txt"><p>A3 Sportback</p></div>
+        <div id="txt"><p>A3 SportbackTFSI e</p></div>
         <div class="gallery">
             <a href="Sport1.png" data-lightbox="mygallery"><img src="Sport1Small.png" /></a>
             <a href="Sport2.png" data-lightbox="mygallery"><img src="Sport2Small.png" /></a>
