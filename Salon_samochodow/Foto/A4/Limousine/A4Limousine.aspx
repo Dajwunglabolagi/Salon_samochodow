@@ -15,6 +15,7 @@
             <a href="A4Limo4.png" data-lightbox="mygallery"><img src="A4Limo4Small.png" /></a>
             <a href="A4Limo5.png" data-lightbox="mygallery"><img src="A4Limo5Small.png" /></a>
             <a href="A4Limo6.png" data-lightbox="mygallery"><img src="A4Limo6Small.png" /></a>
+        </div>
         <div id="description">
             asdfasddasdas
             <div id="order">

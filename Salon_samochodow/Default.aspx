@@ -60,8 +60,8 @@
              <div class="postcard">
                 <div class="photo">
                     <div class="overlay">
-                        <a href="#"><img src="Foto/A4/A4Limousine.png" /></a>
-                        <a class="link" href="#"><span class="icon"></span></a>
+                        <a href="Foto/A4/Limousine/A4Limousine.aspx"><img src="Foto/A4/A4Limousine.png" /></a>
+                        <a class="link" href="Foto/A4/Limousine/A4Limousine.aspx"><span class="icon"></span></a>
                     </div>
                 </div>
                 <p>A4 Limousine</p>
@@ -70,8 +70,8 @@
             <div class="postcard">
                 <div class="photo">
                     <div class="overlay">
-                        <a href="#"><img src="Foto/A4/A4Avant.png" /></a>
-                        <a class="link" href="#"><span class="icon"></span></a>
+                        <a href="Foto/A4/Avant/A4Avant.aspx"><img src="Foto/A4/A4Avant.png" /></a>
+                        <a class="link" href="Foto/A4/Avant/A4Avant.aspx"><span class="icon"></span></a>
                     </div>
                 </div>
                 <p>A4 Avant</p>
@@ -80,8 +80,8 @@
              <div class="postcard">
                 <div class="photo">
                     <div class="overlay">
-                        <a href="#"><img src="Foto/A4/A4AllRoad.png" /></a>
-                        <a class="link" href="#"><span class="icon"></span></a>
+                        <a href="Foto/A4/AllRoad/A4Allroad.aspx"><img src="Foto/A4/A4AllRoad.png" /></a>
+                        <a class="link" href="Foto/A4/AllRoad/A4Allroad.aspx"><span class="icon"></span></a>
                     </div>
                 </div>
                 <p>A4 Allroad</p>

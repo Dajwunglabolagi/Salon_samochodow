@@ -13,7 +13,7 @@
             <a href="A4All2.png" data-lightbox="mygallery"><img src="A4All2Small.png" /></a>
             <a href="A4All3.png" data-lightbox="mygallery"><img src="A4All3Small.png" /></a>
             <a href="A4All4.png" data-lightbox="mygallery"><img src="A4All4Small.png" /></a>
-            <a href="A4ALimo6.png" data-lightbox="mygallery"><img src="A4ALimo6Small.png" /></a>
+            <a href="A4Limo6.png" data-lightbox="mygallery"><img src="A4Limo6Small.png" /></a>
 
         </div>
         <div id="description">
