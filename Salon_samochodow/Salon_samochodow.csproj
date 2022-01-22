@@ -105,22 +105,112 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Foto\A4\AllRoad\A4All1.png" />
+    <Content Include="Foto\A4\AllRoad\A4All1Small.png" />
+    <Content Include="Foto\A4\AllRoad\A4All2.png" />
+    <Content Include="Foto\A4\AllRoad\A4All2Small.png" />
+    <Content Include="Foto\A4\AllRoad\A4All3.png" />
+    <Content Include="Foto\A4\AllRoad\A4All3Small.png" />
+    <Content Include="Foto\A4\AllRoad\A4all4.png" />
+    <Content Include="Foto\A4\AllRoad\A4all4Small.png" />
+    <Content Include="Foto\A4\AllRoad\A4Allroad.aspx" />
+    <Content Include="Foto\A4\AllRoad\A4Limo6.png" />
+    <Content Include="Foto\A4\AllRoad\A4Limo6Small.png" />
+    <Content Include="Foto\A4\Avant\A4Avant.aspx" />
+    <Content Include="Foto\A4\Avant\A4Avant1.png" />
+    <Content Include="Foto\A4\Avant\A4Avant1Small.png" />
+    <Content Include="Foto\A4\Avant\A4Avant2.png" />
+    <Content Include="Foto\A4\Avant\A4Avant2Small.png" />
+    <Content Include="Foto\A4\Avant\A4Avant3.png" />
+    <Content Include="Foto\A4\Avant\A4Avant3Small.png" />
+    <Content Include="Foto\A4\Avant\A4Avant4.png" />
+    <Content Include="Foto\A4\Avant\A4Avant4Small.png" />
+    <Content Include="Foto\A4\Avant\A4Avant5.png" />
+    <Content Include="Foto\A4\Avant\A4Avant5Small.png" />
+    <Content Include="Foto\A4\Avant\A4Avant6.png" />
+    <Content Include="Foto\A4\Avant\A4Avant6Small.png" />
+    <Content Include="Foto\A4\Avant\A4Limo1.png" />
+    <Content Include="Foto\A4\Avant\A4Limo1Small.png" />
+    <Content Include="Foto\A4\Limousine\A4Limo1.png" />
+    <Content Include="Foto\A4\Limousine\A4Limo1Small.png" />
+    <Content Include="Foto\A4\Limousine\A4Limo2.png" />
+    <Content Include="Foto\A4\Limousine\A4Limo2Small.png" />
+    <Content Include="Foto\A4\Limousine\A4Limo3.png" />
+    <Content Include="Foto\A4\Limousine\A4Limo3Small.png" />
+    <Content Include="Foto\A4\Limousine\A4Limo4.png" />
+    <Content Include="Foto\A4\Limousine\A4Limo4Small.png" />
+    <Content Include="Foto\A4\Limousine\A4Limo5.png" />
+    <Content Include="Foto\A4\Limousine\A4Limo5Small.png" />
+    <Content Include="Foto\A4\Limousine\A4Limo6.png" />
+    <Content Include="Foto\A4\Limousine\A4Limo6Small.png" />
+    <Content Include="Foto\A4\Limousine\A4Limousine.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="Register.aspx" />
+    <Content Include="Order.aspx" />
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\lightbox.css" />
+    <Content Include="Content\lightbox.min.css" />
     <Content Include="Content\Main_css.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Foto\A1\A1.png" />
+    <Content Include="Foto\A1\A1.aspx" />
+    <Content Include="Foto\A1\close.png" />
+    <Content Include="Foto\A1\img1.png" />
+    <Content Include="Foto\A1\img1small.png" />
+    <Content Include="Foto\A1\img2.png" />
+    <Content Include="Foto\A1\img2small.png" />
+    <Content Include="Foto\A1\img3.png" />
+    <Content Include="Foto\A1\img3small.png" />
+    <Content Include="Foto\A1\img4.png" />
+    <Content Include="Foto\A1\img4small.png" />
+    <Content Include="Foto\A1\loading.gif" />
+    <Content Include="Foto\A1\next.png" />
+    <Content Include="Foto\A1\prev.png" />
+    <Content Include="Foto\A3\Limousine\A3Limousine.aspx" />
+    <Content Include="Foto\A3\Limousine\Limo1.png" />
+    <Content Include="Foto\A3\Limousine\Limo1Small.png" />
+    <Content Include="Foto\A3\Limousine\Limo2.png" />
+    <Content Include="Foto\A3\Limousine\Limo2Small.png" />
+    <Content Include="Foto\A3\Limousine\Limo3.png" />
+    <Content Include="Foto\A3\Limousine\Limo3Small.png" />
+    <Content Include="Foto\A3\Limousine\Limo4.png" />
+    <Content Include="Foto\A3\Limousine\Limo4Small.png" />
+    <Content Include="Foto\A3\Limousine\Limo5.png" />
+    <Content Include="Foto\A3\Limousine\Limo5Small.png" />
+    <Content Include="Foto\A3\SportbackTFSI\A3SportbackTFSIe.aspx" />
+    <Content Include="Foto\A3\SportbackTFSI\Sport1.png" />
+    <Content Include="Foto\A3\SportbackTFSI\Sport1Small.png" />
+    <Content Include="Foto\A3\SportbackTFSI\Sport2.png" />
+    <Content Include="Foto\A3\SportbackTFSI\Sport2Small.png" />
+    <Content Include="Foto\A3\SportbackTFSI\Sport3.png" />
+    <Content Include="Foto\A3\SportbackTFSI\Sport3Small.png" />
+    <Content Include="Foto\A3\SportbackTFSI\Sport4.png" />
+    <Content Include="Foto\A3\SportbackTFSI\Sport4Small.png" />
+    <Content Include="Foto\A3\SportbackTFSI\Sport5.png" />
+    <Content Include="Foto\A3\SportbackTFSI\Sport5Small.png" />
+    <Content Include="Foto\A3\Sportback\A3Sportback.aspx" />
     <Content Include="Foto\A3\A3.png" />
     <Content Include="Foto\A3\A3Limousine.png" />
     <Content Include="Foto\A3\A3SportBack.png" />
     <Content Include="Foto\A3\A3SportBackTFSI.png" />
+    <Content Include="Foto\A3\Sportback\Sport1.png" />
+    <Content Include="Foto\A3\Sportback\Sport1Small.png" />
+    <Content Include="Foto\A3\Sportback\Sport2.png" />
+    <Content Include="Foto\A3\Sportback\Sport2Small.png" />
+    <Content Include="Foto\A3\Sportback\Sport3.png" />
+    <Content Include="Foto\A3\Sportback\Sport3Small.png" />
+    <Content Include="Foto\A3\Sportback\Sport4.png" />
+    <Content Include="Foto\A3\Sportback\Sport4Small.png" />
+    <Content Include="Foto\A3\Sportback\Sport5.png" />
+    <Content Include="Foto\A3\Sportback\Sport5Small.png" />
     <Content Include="Foto\A4\A4.png" />
     <Content Include="Foto\A4\A4AllRoad.png" />
     <Content Include="Foto\A4\A4Avant.png" />
@@ -140,6 +230,10 @@
     <Content Include="Foto\A8\A8.png" />
     <Content Include="Foto\A8\A8L.png" />
     <Content Include="Foto\Audi-Logo-PNG-Pic.png" />
+    <Content Include="Foto\close.png" />
+    <Content Include="Foto\loading.gif" />
+    <Content Include="Foto\next.png" />
+    <Content Include="Foto\prev.png" />
     <Content Include="Foto\tlo.png" />
     <Content Include="Foto\zdj.png" />
     <Content Include="Global.asax" />
@@ -158,6 +252,7 @@
     <Content Include="Scripts\jquery-3.4.1.min.js" />
     <Content Include="Scripts\jquery-3.4.1.slim.js" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
+    <Content Include="Scripts\lightbox-plus-jquery.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Scripts\WebForms\DetailsView.js" />
     <Content Include="Scripts\WebForms\Focus.js" />
@@ -187,6 +282,48 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Foto\A4\AllRoad\A4Allroad.aspx.cs">
+      <DependentUpon>A4Allroad.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Foto\A4\AllRoad\A4Allroad.aspx.designer.cs">
+      <DependentUpon>A4Allroad.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Foto\A4\Avant\A4Avant.aspx.cs">
+      <DependentUpon>A4Avant.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Foto\A4\Avant\A4Avant.aspx.designer.cs">
+      <DependentUpon>A4Avant.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Foto\A4\Limousine\A4Limousine.aspx.cs">
+      <DependentUpon>A4Limousine.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Foto\A4\Limousine\A4Limousine.aspx.designer.cs">
+      <DependentUpon>A4Limousine.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Order.aspx.cs">
+      <DependentUpon>Order.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Order.aspx.designer.cs">
+      <DependentUpon>Order.aspx</DependentUpon>
+    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>
@@ -209,6 +346,34 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Foto\A1\A1.aspx.cs">
+      <DependentUpon>A1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Foto\A1\A1.aspx.designer.cs">
+      <DependentUpon>A1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Foto\A3\Limousine\A3Limousine.aspx.cs">
+      <DependentUpon>A3Limousine.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Foto\A3\Limousine\A3Limousine.aspx.designer.cs">
+      <DependentUpon>A3Limousine.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Foto\A3\SportbackTFSI\A3SportbackTFSIe.aspx.cs">
+      <DependentUpon>A3SportbackTFSIe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Foto\A3\SportbackTFSI\A3SportbackTFSIe.aspx.designer.cs">
+      <DependentUpon>A3SportbackTFSIe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Foto\A3\Sportback\A3Sportback.aspx.cs">
+      <DependentUpon>A3Sportback.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Foto\A3\Sportback\A3Sportback.aspx.designer.cs">
+      <DependentUpon>A3Sportback.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

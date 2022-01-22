@@ -18,8 +18,8 @@
              <div class="postcard">
                 <div class="photo">
                     <div class="overlay">
-                        <a href="#"><img src="Foto/A1/A1.png" /></a>
-                        <a class="link" href="#"><span class="icon"></span></a>
+                        <a href="Foto/A1/A1.aspx"><img src="Foto/A1/A1.png" /></a>
+                        <a class="link" href="Foto/A1/A1.aspx"><span class="icon"></span></a>
                     </div>
                 </div>
                 <p>A1 Sportback</p>
@@ -29,8 +29,8 @@
              <div class="postcard">
                 <div class="photo">
                     <div class="overlay">
-                        <a href="#"><img src="Foto/A3/A3SportBack.png" /></a>
-                        <a class="link" href="#"><span class="icon"></span></a>
+                        <a href="Foto/A3/Sportback/A3Sportback.aspx"><img src="Foto/A3/A3SportBack.png" /></a>
+                        <a class="link" href="Foto/A3/Sportback/A3Sportback.aspx"><span class="icon"></span></a>
                     </div>
                 </div>
                 <p>A3 Sportback</p>
@@ -39,8 +39,8 @@
              <div class="postcard">
                 <div class="photo">
                     <div class="overlay">
-                        <a href="#"><img src="Foto/A3/A3SportBackTFSI.png" /></a>
-                        <a class="link" href="#"><span class="icon"></span></a>
+                        <a href="Foto/A3/SportbackTFSI/A3SportbackTFSIe.aspx"><img src="Foto/A3/A3SportBackTFSI.png" /></a>
+                        <a class="link" href="Foto/A3/SportbackTFSI/A3SportbackTFSIe.aspx"><span class="icon"></span></a>
                     </div>
                 </div>
                 <p>A3 Sportback TFSI e</p>
@@ -49,13 +49,13 @@
              <div class="postcard">
                 <div class="photo">
                     <div class="overlay">
-                        <a href="#"><img src="Foto/A3/A3Limousine.png" /></a>
-                        <a class="link" href="#"><span class="icon"></span></a>
+                        <a href="Foto/A3/Limousine/A3Limousine.aspx"><img src="Foto/A3/A3Limousine.png" /></a>
+                        <a class="link" href="Foto/A3/Limousine/A3Limousine.aspx"><span class="icon"></span></a>
                     </div>
                 </div>
                 <p>A3 Limousine</p>
             </div>
-
+               <%-- A4 -------------------------------------------------  --%>
             <h1>A4</h1>
              <div class="postcard">
                 <div class="photo">
@@ -86,7 +86,7 @@
                 </div>
                 <p>A4 Allroad</p>
             </div>
-
+               <%-- A5 -------------------------------------------------  --%>
             <h1>A5</h1>
              <div class="postcard">
                 <div class="photo">
@@ -107,7 +107,7 @@
                 </div>
                 <p>A5 Sportback</p>
             </div>
-
+               <%-- A6 -------------------------------------------------  --%>
             <h1>A6</h1>
              <div class="postcard">
                 <div class="photo">
@@ -158,7 +158,7 @@
                 </div>
                 <p>A6 Allroad</p>
             </div>
-
+               <%-- A7 -------------------------------------------------  --%>
             <h1>A7</h1>
              <div class="postcard">
                 <div class="photo">
@@ -177,9 +177,9 @@
                         <a class="link" href="#"><span class="icon"></span></a>
                     </div>
                 </div>
-                <p>A7 Sportback</p>
+                <p>A7 Sportback TFSI e</p>
             </div>
-
+               <%-- A8 -------------------------------------------------  --%>
             <h1>A8</h1>
              <div class="postcard">
                 <div class="photo">

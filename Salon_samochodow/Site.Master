@@ -56,7 +56,11 @@
                         <li><a runat="server" href="~/">Strona główna</a></li>
 
                         <li><a runat="server" href="~/Contact">Kontakt</a></li>
+                         
+                       <li><a runat="server" href="~/Register">Zarejestruj</a></li>
+                       <li><a runat="server" href="~/Login">Zaloguj</a></li>
                     </ul>
+                     
                 </div>
             </div>
         </div>

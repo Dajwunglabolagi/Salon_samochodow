@@ -8,7 +8,18 @@
     width: 1500px;
     height: 100%;
     background-color:lightgrey;
+
+
 }
+
+#conteiner #txt p{
+    text-align:center;
+    font-size:40px;
+    font-weight:600;
+    background-color:lightgrey;
+    border-bottom:dashed 2px grey;
+}
+
 
 #big_img {
     background-image: url('../Foto/zdj.png');
@@ -36,7 +47,7 @@
 #text_models {
     text-align: center;
     padding-top: 20px;
-    padding-bottom: 30px;
+    padding-bottom: 34px;
     font-size: 45px;
     font-weight: 700;
     letter-spacing: 2px;
@@ -183,3 +194,40 @@
     margin-left: 10px;
     margin-right: 10px
 }
+
+/*GALERIA */
+.gallery{
+    
+    margin-left:150px;
+}
+
+.gallery img{
+    transition: 1s;
+    padding:15px;
+    width: 400px;
+}
+
+.gallery img:hover{
+    filter:grayscale(100%);
+    transform: scale(1.1)
+}
+
+#order{
+    text-align:center;
+    font-size:40px;
+    font-weight:700;
+    text-decoration: none;
+}
+
+#order a {
+    color:black;
+    text-decoration:none;
+}
+
+}#order a:hover {
+        text-align: center;
+        font-size: 50px;
+        font-weight: 700;
+        color:white;
+        text-decoration: none;
+    }

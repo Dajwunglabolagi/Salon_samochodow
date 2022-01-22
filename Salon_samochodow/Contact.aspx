@@ -25,6 +25,7 @@
                     <span id="Data">+48 987-654-321</span>
              </div>
         <div style="clear:both;"></div>
+            <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" />
         <div class="small_box">
              <div class="boxes2">
                     <i class="icon-mail"><br /></i>
